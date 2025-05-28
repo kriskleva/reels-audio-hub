@@ -18,11 +18,11 @@ artist = st.selectbox("Select an Artist to View Audio Assets:", [
 # Sample data for each artist
 audio_data = {
     "Felecia Cruz": {
-        "title": "Electric Bloom",
+        "title": "Gleaming",
         "link": "https://www.instagram.com/reels/audio/3187564854717114/",
         "preview": "https://sample-videos.com/audio123/mp3/1.mp3",
-        "kit": "https://yourdomain.com/kits/felecia_cruz_reels_kit.zip",
-        "bio": "A genre-bending vocalist blending soul, Latin, and electronic textures."
+        "kit": "https://fcgetsit.com",
+        "bio": "Felecia Cruz has performed over 2,600 shows across 10 countries and continues to bring her electric blend of rap, hip-hop, DJ, and performance art to audiences around the world. Her beats tell stories — about resilience, adventure, and growth — and through workshops and community engagement, she helps young artists find their voice. Felecia’s journey from Maine jam sessions to international stages proves that creativity knows no borders."
     },
     "Genius Black": {
         "title": "Revolution Now",
